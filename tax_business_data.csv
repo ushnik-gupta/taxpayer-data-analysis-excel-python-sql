@@ -1,0 +1,11 @@
+Taxpayer_ID,Age,City,Profession,Annual_Income,Tax_Regime,Total_Deductions,Taxable_Income,Tax_Payable,Compliance_Status
+T001,28,Kolkata,Software Engineer,850000,New,0,850000,52000,Filed
+T002,45,Mumbai,Business Owner,1200000,Old,200000,1000000,112500,Late
+T003,34,Delhi,Data Analyst,950000,New,0,950000,65000,Filed
+T004,52,Chennai,Consultant,1500000,Old,300000,1200000,150000,Filed
+T005,26,Kolkata,Intern,350000,New,0,350000,0,Filed
+T006,39,Pune,Freelancer,700000,Old,100000,600000,22500,Late
+T007,48,Bengaluru,Manager,1800000,New,0,1800000,234000,Filed
+T008,31,Hyderabad,Chartered Accountant,1100000,Old,150000,950000,97500,Filed
+T009,55,Kolkata,Trader,1600000,Old,250000,1350000,172500,Not Filed
+T010,29,Noida,UI Designer,620000,New,0,620000,18500,Filed
